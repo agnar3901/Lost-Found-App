@@ -1,4 +1,4 @@
-# My Universal React Project
+# My React Native Project
 
 <p>
   <!-- iOS -->
